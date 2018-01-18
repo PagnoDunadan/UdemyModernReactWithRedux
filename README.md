@@ -1,6 +1,6 @@
 # Modern React with Redux Part 1 - React
 
-Finished project for course [Modern React with Redux](https://www.udemy.com/react-redux/) sections 1 and 2
+Finished project for course [Modern React with Redux](https://www.udemy.com/react-redux/) sections 1 and 2.
 
 ### Getting Started
 
@@ -14,4 +14,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-![Alt text](/screenshots/screenshot.png?raw=true "Application")
+### Screenshots
+
+![Alt text](/screenshots/screenshot.png?raw=true "Screenshot")
