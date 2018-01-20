@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# Modern React with Redux Part 4 - React Router + Redux Form
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Finished project for course [Modern React with Redux](https://www.udemy.com/react-redux/) section 9 (old section 6).
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/PagnoDunadan/UdemyModernReactWithRedux.git
+> cd UdemyModernReactWithRedux
+> git checkout ReactRouter+ReduxForm
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### Screenshots
 
-```
-> npm install
-> npm start
-```
+![Alt text](/screenshots/screenshot1.png?raw=true "/")
+
+
+![Alt text](/screenshots/screenshot2.png?raw=true "/posts/new")
+
+
+![Alt text](/screenshots/screenshot3.png?raw=true "/posts/:id")
