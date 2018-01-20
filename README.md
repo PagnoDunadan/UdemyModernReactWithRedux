@@ -16,10 +16,11 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ### Screenshots
 
+### Route "/"
 ![Alt text](/screenshots/screenshot1.png?raw=true "/")
 
-
+### Route "/posts/new"
 ![Alt text](/screenshots/screenshot2.png?raw=true "/posts/new")
 
-
+### Route "/posts/:id"
 ![Alt text](/screenshots/screenshot3.png?raw=true "/posts/:id")
