@@ -12,6 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git checkout React
 > npm install
 > npm start
+> http://localhost:8080/
 ```
 
 ### Screenshots
