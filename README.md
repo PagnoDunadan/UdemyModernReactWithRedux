@@ -11,7 +11,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd UdemyModernReactWithRedux
 > git checkout ReactRouter+ReduxForm
 > npm install
-> npm start
+> npm run start
+> http://localhost:8080/
 ```
 
 ### Screenshots
